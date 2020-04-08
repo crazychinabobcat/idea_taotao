@@ -15,16 +15,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="asdasdasd" target="1.7" />
-      <module name="taotao_common" target="1.7" />
-      <module name="taotao_manage" target="1.7" />
-      <module name="taotao_manage_service" target="1.7" />
-      <module name="taotao_manage_web" target="1.7" />
-      <module name="taotao_manager_dao" target="1.7" />
-      <module name="taotao_manager_interface" target="1.7" />
-      <module name="taotao_manager_pojo" target="1.7" />
-      <module name="taotao_manager_service" target="1.7" />
-      <module name="taotao_parent" target="1.7" />
+      <module name="maven-archiver (1)" target="1.5" />
+      <module name="maven-archiver (2)" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
